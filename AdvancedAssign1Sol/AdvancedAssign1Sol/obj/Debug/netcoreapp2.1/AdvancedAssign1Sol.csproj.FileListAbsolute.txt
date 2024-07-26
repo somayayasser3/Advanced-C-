@@ -1,0 +1,11 @@
+E:\Route Backend .net\04 - Advanced C#\Session 01 (23-7-2024)\Assignments\AdvancedAssign1Sol\AdvancedAssign1Sol\bin\Debug\netcoreapp2.1\AdvancedAssign1Sol.deps.json
+E:\Route Backend .net\04 - Advanced C#\Session 01 (23-7-2024)\Assignments\AdvancedAssign1Sol\AdvancedAssign1Sol\bin\Debug\netcoreapp2.1\AdvancedAssign1Sol.runtimeconfig.json
+E:\Route Backend .net\04 - Advanced C#\Session 01 (23-7-2024)\Assignments\AdvancedAssign1Sol\AdvancedAssign1Sol\bin\Debug\netcoreapp2.1\AdvancedAssign1Sol.runtimeconfig.dev.json
+E:\Route Backend .net\04 - Advanced C#\Session 01 (23-7-2024)\Assignments\AdvancedAssign1Sol\AdvancedAssign1Sol\bin\Debug\netcoreapp2.1\AdvancedAssign1Sol.dll
+E:\Route Backend .net\04 - Advanced C#\Session 01 (23-7-2024)\Assignments\AdvancedAssign1Sol\AdvancedAssign1Sol\bin\Debug\netcoreapp2.1\AdvancedAssign1Sol.pdb
+E:\Route Backend .net\04 - Advanced C#\Session 01 (23-7-2024)\Assignments\AdvancedAssign1Sol\AdvancedAssign1Sol\obj\Debug\netcoreapp2.1\AdvancedAssign1Sol.csprojAssemblyReference.cache
+E:\Route Backend .net\04 - Advanced C#\Session 01 (23-7-2024)\Assignments\AdvancedAssign1Sol\AdvancedAssign1Sol\obj\Debug\netcoreapp2.1\AdvancedAssign1Sol.csproj.CoreCompileInputs.cache
+E:\Route Backend .net\04 - Advanced C#\Session 01 (23-7-2024)\Assignments\AdvancedAssign1Sol\AdvancedAssign1Sol\obj\Debug\netcoreapp2.1\AdvancedAssign1Sol.AssemblyInfoInputs.cache
+E:\Route Backend .net\04 - Advanced C#\Session 01 (23-7-2024)\Assignments\AdvancedAssign1Sol\AdvancedAssign1Sol\obj\Debug\netcoreapp2.1\AdvancedAssign1Sol.AssemblyInfo.cs
+E:\Route Backend .net\04 - Advanced C#\Session 01 (23-7-2024)\Assignments\AdvancedAssign1Sol\AdvancedAssign1Sol\obj\Debug\netcoreapp2.1\AdvancedAssign1Sol.dll
+E:\Route Backend .net\04 - Advanced C#\Session 01 (23-7-2024)\Assignments\AdvancedAssign1Sol\AdvancedAssign1Sol\obj\Debug\netcoreapp2.1\AdvancedAssign1Sol.pdb
