@@ -1,0 +1,11 @@
+E:\Route Backend .net\04 - Advanced C#\Session 02 (30-7-2024)\Session 02\Assignment\Collections\C_Advanced_Assign2\C_Advanced_Assign2\bin\Debug\netcoreapp2.1\C_Advanced_Assign2.deps.json
+E:\Route Backend .net\04 - Advanced C#\Session 02 (30-7-2024)\Session 02\Assignment\Collections\C_Advanced_Assign2\C_Advanced_Assign2\bin\Debug\netcoreapp2.1\C_Advanced_Assign2.runtimeconfig.json
+E:\Route Backend .net\04 - Advanced C#\Session 02 (30-7-2024)\Session 02\Assignment\Collections\C_Advanced_Assign2\C_Advanced_Assign2\bin\Debug\netcoreapp2.1\C_Advanced_Assign2.runtimeconfig.dev.json
+E:\Route Backend .net\04 - Advanced C#\Session 02 (30-7-2024)\Session 02\Assignment\Collections\C_Advanced_Assign2\C_Advanced_Assign2\bin\Debug\netcoreapp2.1\C_Advanced_Assign2.dll
+E:\Route Backend .net\04 - Advanced C#\Session 02 (30-7-2024)\Session 02\Assignment\Collections\C_Advanced_Assign2\C_Advanced_Assign2\bin\Debug\netcoreapp2.1\C_Advanced_Assign2.pdb
+E:\Route Backend .net\04 - Advanced C#\Session 02 (30-7-2024)\Session 02\Assignment\Collections\C_Advanced_Assign2\C_Advanced_Assign2\obj\Debug\netcoreapp2.1\C_Advanced_Assign2.csprojAssemblyReference.cache
+E:\Route Backend .net\04 - Advanced C#\Session 02 (30-7-2024)\Session 02\Assignment\Collections\C_Advanced_Assign2\C_Advanced_Assign2\obj\Debug\netcoreapp2.1\C_Advanced_Assign2.csproj.CoreCompileInputs.cache
+E:\Route Backend .net\04 - Advanced C#\Session 02 (30-7-2024)\Session 02\Assignment\Collections\C_Advanced_Assign2\C_Advanced_Assign2\obj\Debug\netcoreapp2.1\C_Advanced_Assign2.AssemblyInfoInputs.cache
+E:\Route Backend .net\04 - Advanced C#\Session 02 (30-7-2024)\Session 02\Assignment\Collections\C_Advanced_Assign2\C_Advanced_Assign2\obj\Debug\netcoreapp2.1\C_Advanced_Assign2.AssemblyInfo.cs
+E:\Route Backend .net\04 - Advanced C#\Session 02 (30-7-2024)\Session 02\Assignment\Collections\C_Advanced_Assign2\C_Advanced_Assign2\obj\Debug\netcoreapp2.1\C_Advanced_Assign2.dll
+E:\Route Backend .net\04 - Advanced C#\Session 02 (30-7-2024)\Session 02\Assignment\Collections\C_Advanced_Assign2\C_Advanced_Assign2\obj\Debug\netcoreapp2.1\C_Advanced_Assign2.pdb
