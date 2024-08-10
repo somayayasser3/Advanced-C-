@@ -1,0 +1,11 @@
+C:\Users\Almodather\source\repos\Advanced C_ Assignment 3 Sol\Advanced C_ Assignment 3 Sol\bin\Debug\netcoreapp2.1\Advanced C_ Assignment 3 Sol.deps.json
+C:\Users\Almodather\source\repos\Advanced C_ Assignment 3 Sol\Advanced C_ Assignment 3 Sol\bin\Debug\netcoreapp2.1\Advanced C_ Assignment 3 Sol.runtimeconfig.json
+C:\Users\Almodather\source\repos\Advanced C_ Assignment 3 Sol\Advanced C_ Assignment 3 Sol\bin\Debug\netcoreapp2.1\Advanced C_ Assignment 3 Sol.runtimeconfig.dev.json
+C:\Users\Almodather\source\repos\Advanced C_ Assignment 3 Sol\Advanced C_ Assignment 3 Sol\bin\Debug\netcoreapp2.1\Advanced C_ Assignment 3 Sol.dll
+C:\Users\Almodather\source\repos\Advanced C_ Assignment 3 Sol\Advanced C_ Assignment 3 Sol\bin\Debug\netcoreapp2.1\Advanced C_ Assignment 3 Sol.pdb
+C:\Users\Almodather\source\repos\Advanced C_ Assignment 3 Sol\Advanced C_ Assignment 3 Sol\obj\Debug\netcoreapp2.1\Advanced C_ Assignment 3 Sol.csprojAssemblyReference.cache
+C:\Users\Almodather\source\repos\Advanced C_ Assignment 3 Sol\Advanced C_ Assignment 3 Sol\obj\Debug\netcoreapp2.1\Advanced C_ Assignment 3 Sol.csproj.CoreCompileInputs.cache
+C:\Users\Almodather\source\repos\Advanced C_ Assignment 3 Sol\Advanced C_ Assignment 3 Sol\obj\Debug\netcoreapp2.1\Advanced C_ Assignment 3 Sol.AssemblyInfoInputs.cache
+C:\Users\Almodather\source\repos\Advanced C_ Assignment 3 Sol\Advanced C_ Assignment 3 Sol\obj\Debug\netcoreapp2.1\Advanced C_ Assignment 3 Sol.AssemblyInfo.cs
+C:\Users\Almodather\source\repos\Advanced C_ Assignment 3 Sol\Advanced C_ Assignment 3 Sol\obj\Debug\netcoreapp2.1\Advanced C_ Assignment 3 Sol.dll
+C:\Users\Almodather\source\repos\Advanced C_ Assignment 3 Sol\Advanced C_ Assignment 3 Sol\obj\Debug\netcoreapp2.1\Advanced C_ Assignment 3 Sol.pdb
